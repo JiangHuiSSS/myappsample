@@ -1,2 +1,2 @@
-# My spp
+# My app
 This is my app.
